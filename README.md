@@ -1,4 +1,4 @@
-# tmdb
+# tmdb-flutter-example
 
 A new flutter project.
 
